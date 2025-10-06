@@ -1,6 +1,6 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "Hillu Khan og",
+  "description": "Javascript WhatsApp bot made by Hillu Khan og",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "Hillu Khan og" 
         
     },
      "PREFIX": {
@@ -27,13 +27,13 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *©Hillu Khan og*",
       "required": true
       
    }, 
@@ -45,7 +45,7 @@
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "Hillu Khan og,
       "value": "",
       "required": true
     }
